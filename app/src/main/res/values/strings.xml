@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI </string>
+    <string name="underweight">Underweight: Your BMI is %1$s</string>
+    <string name="normal_weight">Normal weight: Your BMI is %1$s</string>
+    <string name="overweight">Overweight: Your BMI is %1$s</string>
+    <string name="obese">Obese: Your BMI is %1$s</string>
+    <string name="error_message">Please enter valid values for height and weight.</string>
+</resources>
